@@ -1,0 +1,106 @@
+/* _content/myprojectEF/Pages/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+:root[b-p4h6dlc01v] {
+    --primary: #AAD7D9;
+    --secondary: #92C7CF;
+}
+
+a.navbar-brand[b-p4h6dlc01v] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+.navbar[b-p4h6dlc01v] ,.footer[b-p4h6dlc01v]{
+    background-color: #92C7CF !important;
+    color : white !important;
+}
+
+a[b-p4h6dlc01v] {
+    color: #0077cc;
+}
+
+.btn-primary[b-p4h6dlc01v] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-p4h6dlc01v], .nav-pills .show > .nav-link[b-p4h6dlc01v] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-p4h6dlc01v] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-p4h6dlc01v] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-p4h6dlc01v] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-p4h6dlc01v] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-p4h6dlc01v] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+
+
+
+
+
+
+/* Ajoutez ces styles dans votre fichier CSS existant */
+
+h1[b-p4h6dlc01v]{
+    color:blue
+}
+
+/* Styles pour la barre de navigation */
+.navbar[b-p4h6dlc01v] {
+    background-color: #200E3A;
+}
+
+.navbar-brand img[b-p4h6dlc01v] {
+    max-height: 40px; /* Ajustez la hauteur de votre logo */
+}
+
+.navbar-toggler[b-p4h6dlc01v] {
+    border-color: #38419D;
+}
+
+/* Styles pour les liens de la barre de navigation */
+.navbar-nav .nav-item[b-p4h6dlc01v] {
+    margin-right: 15px; /* Ajustez la marge entre les éléments si nécessaire */
+}
+
+.nav-link[b-p4h6dlc01v] {
+    color: white;
+}
+
+/* Styles pour le dropdown dans la barre de navigation */
+.dropdown-menu[b-p4h6dlc01v] {
+    background-color: var(--your-background-color);
+    border: 1px solid var(--your-accent-color);
+}
+
+.dropdown-item[b-p4h6dlc01v] {
+    color: var(--your-text-color);
+}
+
+/* Styles pour le dropdown divider */
+.dropdown-divider[b-p4h6dlc01v] {
+    border-color: var(--your-accent-color);
+}
